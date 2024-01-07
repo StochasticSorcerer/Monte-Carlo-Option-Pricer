@@ -1,9 +1,11 @@
 # Monte-Carlo-Option-Pricer
 
-Me:
+## Me:
+
   I'm learning C++. Give me a project to do so  I can learn the lanugage. I like probability, monte carlo simulations, and finance.
 
-ChatGPT:
+## ChatGPT:
+
   Great choice! Combining C++, probability, Monte Carlo simulations, and finance can lead to interesting projects. Here's a project idea for you:
   
   Project: Monte Carlo Simulation for Option Pricing
