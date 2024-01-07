@@ -2,7 +2,7 @@
 
 ## Me:
 
-  I'm learning C++. Give me a project to do so  I can learn the lanugage. I like probability, monte carlo simulations, and finance.
+  I'm learning C++. Give me a project to do so I can practice. I like probability, monte carlo simulations, and finance.
 
 ## ChatGPT:
 
